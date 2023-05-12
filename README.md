@@ -1,3 +1,6 @@
+# get-paper-from-openview
+## 从 OpenReview 获取顶会接收论文集并保存至本地数据库
+
 最近在调整自己的论文追踪网站，发现从 arXiv 的 Comments 扒论文的中稿会议或期刊效率太低，且准确率也不高，想着还不如直接爬取会议接受的论文。
 
 ![image](https://github.com/chenluda/get-paper-from-openview/assets/45784833/71492fc8-8b9d-473d-a156-48baaf743806)
@@ -11,6 +14,10 @@ Github 上也有从该网站爬取会议论文集的项目，如 paper_downloade
 ![image](https://github.com/chenluda/get-paper-from-openview/assets/45784833/28babc96-617e-4989-8f85-d4001d73a7a3)
 
 要知道 OpenReview 是有自己的官方 API 文档的 :)
+
 https://docs.openreview.net/getting-started/using-the-api
+
 https://openreview-py.readthedocs.io/en/latest/
+
 https://github.com/openreview/openreview-py
+
